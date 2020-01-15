@@ -4,19 +4,28 @@ body{
 header{
     background-color: black;
     color: blanchedalmond;
-    border: chocolate;
-    border-style: solid;
     height: 125px;
     
 }
-img{
-    padding: 0px;
-    margin: 0px;
-}
 li{
-    border: chocolate;
-    border-style: solid;
     display: inline-block;
     text-align: center;
-    float: center;
+    padding-left: 10%;
+    
+}
+li img{
+    align-content: flex-start;
+}
+p{
+    padding-left: 15%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.column{
+scroll-padding-left: 20px;
+}
+footer{
+    background-color: black;
+    height: 125px;
+    width: 100%;
 }

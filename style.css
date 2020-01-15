@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+header{
+    background-color: black;
+    color: blanchedalmond;
+    border: chocolate;
+    border-style: solid;
+    height: 125px;
+    
+}
+img{
+    padding: 0px;
+    margin: 0px;
+}
+li{
+    border: chocolate;
+    border-style: solid;
+    display: inline-block;
+    text-align: center;
+    float: center;
+}
